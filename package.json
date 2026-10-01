@@ -1,0 +1,10 @@
+{
+  "name": "schnorr-lite",
+  "version": "0.4.2",
+  "description": "Schnorr signatures over a prime-order subgroup, with no native dependencies.",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "bun test"
+  }
+}
